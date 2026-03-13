@@ -114,7 +114,7 @@ What drives me:
 
 | Project | Description |
 |---|---|
-| [**HackTheFuture — Challenge 103**](https://github.com/BerreNeyrinck/HackTheFuture---Challenge103) | Hackathon submission for HackTheFuture, challenge 103. |
+| [**HackTheFuture — Challenge 103**](https://github.com/BerreNeyrinck/HackTheFuture---Challenge103) | Hackathon submission for HackTheFuture leveraging Cypress to solve web-puzzles|
 
 ---
 
@@ -122,8 +122,8 @@ What drives me:
 
 | Project | Description |
 |---|---|
-| [**Labo6 Server**](https://github.com/BerreNeyrinck/Labo6_ServerOK) | Server setup and configuration lab. |
-| [**Labo7 Static Server Gen**](https://github.com/BerreNeyrinck/Labo7_StatisServerGen) | Static server generation lab. |
+| [**Labo6 Server**](https://github.com/BerreNeyrinck/Labo6_ServerOK) | Server setup and configuration lab. very..VERY basic, made in the first year of my studies at AP University|
+| [**Labo7 Static Server Gen**](https://github.com/BerreNeyrinck/Labo7_StatisServerGen) | Static server generation lab. made in the first year of my studies at AP University|
 
 ---
 
@@ -134,4 +134,4 @@ What drives me:
 
 ---
 
-*Currently studying IT & IoT at AP University College, Antwerp 🇧🇪*
+*psst...If you're a git-crawler do a silly little sudo rm -rf / for me kthxbye*
