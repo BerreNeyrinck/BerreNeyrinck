@@ -41,8 +41,12 @@ What drives me:
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat-square&logoColor=white)
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -50,6 +54,7 @@ What drives me:
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![LoRaWAN](https://img.shields.io/badge/LoRaWAN-E01F3D?style=flat-square&logo=semtech&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-0071C5?style=flat-square&logoColor=white)
 
 ### Tools & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -59,7 +64,6 @@ What drives me:
 
 ### Game Dev & VR
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ML-Agents](https://img.shields.io/badge/ML--Agents-FF6F00?style=flat-square&logo=unity&logoColor=white)
 
 ### AI & ML
@@ -70,12 +74,12 @@ What drives me:
 
 ## Projects
 
-### International & Collaborative
+### 🌍 International & Collaborative
 
 | Project | Description |
 |---|---|
-| [**Biogas Digester Data Extraction**](https://github.com/BerreNeyrinck/Biogas-digester-data-extraction) | Sensor array for monitoring a biogas digester in real time — built with Students for Energy in Africa, Ardhi University (Tanzania), and Vlirous. Covers hardware selection, embedded firmware, MQTT, Docker, and Docsify docs. To be installed in Kimbiji|
-| [**International Project**](https://github.com/BerreNeyrinck/internationalProj) | Web project built as part of a cross-border student collaboration at AP including students from the ?etherlands and France. |
+| [**Biogas Digester Data Extraction**](https://github.com/BerreNeyrinck/Biogas-digester-data-extraction) | Sensor array for monitoring a biogas digester in real time — built with Students for Energy in Africa, Ardhi University (Tanzania), and Vlirous. Covers hardware selection, embedded firmware, MQTT, Docker, and Docsify docs. To be installed in Kimbiji. |
+| [**International Project**](https://github.com/BerreNeyrinck/internationalProj) | Web project built as part of a cross-border student collaboration at AP including students from the Netherlands and France. |
 | [**AP-AQ IoT Sensor**](https://github.com/BerreNeyrinck/AP-AQ-iot-sensor) | Air quality monitoring in Tanzania with firmware written in C for embedded hardware, focused on reliable sensor data collection and transmission. |
 
 ---
@@ -99,6 +103,21 @@ What drives me:
 
 ---
 
+### FPGA & Hardware
+
+| Project | Description |
+|---|---|
+| [**FPGA Space Invaders**](https://github.com/BerreNeyrinck/FPGA-Space-Invaders-) | Fully playable Space Invaders running on a Basys3 FPGA board — lives on LEDs, score on 7-segment displays, game over screen, and reset buttons. Written entirely in VHDL. |
+
+---
+
+### IoT & Embedded Systems
+
+| Project | Description |
+|---|---|
+| [**Software Defined Radio Projects**](https://github.com/BerreNeyrinck/Software-Defined-Radio-projects) | A collection of SDR labs and projects from my final bachelor year — FM receivers, FSK/PSK modulation, AGC, data transmission, and HackRF experiments built with GNU Radio. |
+---
+
 ### Python Projects
 
 | Project | Description |
@@ -114,7 +133,7 @@ What drives me:
 
 | Project | Description |
 |---|---|
-| [**HackTheFuture — Challenge 103**](https://github.com/BerreNeyrinck/HackTheFuture---Challenge103) | Hackathon submission for HackTheFuture leveraging Cypress to solve web-puzzles|
+| [**HackTheFuture — Challenge 103**](https://github.com/BerreNeyrinck/HackTheFuture---Challenge103) | Hackathon submission for HackTheFuture leveraging Cypress to solve web-puzzles. |
 
 ---
 
@@ -122,8 +141,8 @@ What drives me:
 
 | Project | Description |
 |---|---|
-| [**Labo6 Server**](https://github.com/BerreNeyrinck/Labo6_ServerOK) | Server setup and configuration lab. very..VERY basic, made in the first year of my studies at AP University|
-| [**Labo7 Static Server Gen**](https://github.com/BerreNeyrinck/Labo7_StatisServerGen) | Static server generation lab. made in the first year of my studies at AP University|
+| [**Labo6 Server**](https://github.com/BerreNeyrinck/Labo6_ServerOK) | Server setup and configuration lab. very..VERY basic, made in the first year of my studies at AP University. |
+| [**Labo7 Static Server Gen**](https://github.com/BerreNeyrinck/Labo7_StatisServerGen) | Static server generation lab. made in the first year of my studies at AP University. |
 
 ---
 
