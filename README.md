@@ -30,14 +30,14 @@ What drives me:
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berre-neyrinck-779244385/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BerreNeyrinck)
 
 ---
 
-## 🛠️ My Skill Set
+## My Skill Set
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,9 +68,9 @@ What drives me:
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🌍 International & Collaborative
+### International & Collaborative
 
 | Project | Description |
 |---|---|
@@ -80,7 +80,7 @@ What drives me:
 
 ---
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 
 | Project | Description |
 |---|---|
