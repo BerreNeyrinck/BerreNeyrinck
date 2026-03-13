@@ -1,6 +1,10 @@
-#                   I'm Berre Neyrinck, a future Embedded Engineer studying at AP in Antwerp
+<div align="center">
+
+### I'm Berre Neyrinck
+
 > *Trying to learn things one tiny step at a time* 🫧
 
+</div>
 ---
 
 ## 🇧🇪 BE
