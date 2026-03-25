@@ -18,7 +18,7 @@ In mijn vrije tijd schrijf ik graag, zowel code als verhalen! ;p Ik ben een ferv
 
 IT & IoT student at **AP University College Antwerp**, passionate about building things that sit at the intersection of software, hardware, and the real world. I enjoy tinkering with embedded systems and computers and taking on projects where code meets the physical environment.
 
-Being clever and sharing are my watchwords. I like exploring new possibilities and working on my skillset to cover an ever growing expanse of the IT world!
+Being clever and sharing is my motto. I like exploring new possibilities and working on my skillset to cover an ever growing expanse of the IT world!
 
 In my free time I like writing, both code and stories! ;p I am an avid computer nerd who enjoys breaking open and putting back together all kinds of technological gear. Nice meeting you!
 
