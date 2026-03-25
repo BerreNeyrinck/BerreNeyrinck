@@ -78,7 +78,7 @@ What drives me:
 
 | Project | Description |
 |---|---|
-| [**Biogas Digester Data Extraction**](https://github.com/BerreNeyrinck/Biogas-digester-data-extraction) | Sensor array for monitoring a biogas digester in real time — built with Students for Energy in Africa, Ardhi University (Tanzania), and Vlirous. Covers hardware selection, embedded firmware, MQTT, Docker, and Docsify docs. To be installed in Kimbiji. |
+| [**Biogas Digester Data Extraction**](https://github.com/BerreNeyrinck/Biogas-digester-data-extraction) | Sensor array for monitoring a biogas digester in real time built with Students for Energy in Africa, Ardhi University (Tanzania), and Vlirous. Covers hardware selection, embedded firmware, MQTT, Docker, and Docsify docs. To be installed in Kimbiji. |
 | [**International Project**](https://github.com/BerreNeyrinck/internationalProj) | Web project built as part of a cross-border student collaboration at AP including students from the Netherlands and France. |
 | [**AP-AQ IoT Sensor**](https://github.com/BerreNeyrinck/AP-AQ-iot-sensor) | Air quality monitoring in Tanzania with firmware written in C for embedded hardware, focused on reliable sensor data collection and transmission. |
 
@@ -99,7 +99,7 @@ What drives me:
 | Project | Description |
 |---|---|
 | [**AI-Powered Naval Combat VR**](https://github.com/AP-IT-GH/project-vr-experience-MathiasVansteensel) | Unity VR simulation where RL agents learn tactical naval combat. Uses ML-Agents, curriculum learning, self-play, and realistic ballistic physics. *(collaborative)* |
-| [**MoMu-Thingy**](https://github.com/MathiasVansteensel/MoMu-Thingy) | Unity-based Android app built in C# with custom HLSL shaders. *(collaborative)* |
+| [**MoMu-Thingy**](https://github.com/MathiasVansteensel/MoMu-Thingy) | Unity-based Android VR app built in C# with custom HLSL shaders. *(collaborative)* |
 
 ---
 
