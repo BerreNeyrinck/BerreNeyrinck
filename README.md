@@ -2,35 +2,33 @@
 
 ### I'm Berre Neyrinck, a future Embedded Engineer studying at AP in Antwerp
 
- *Trying to learn things one tiny step at a time* 🫧
+ *Trying to learn things one tiny step at a time*
 
 </div>
 
-## 🇧🇪 BE
-
-IT- en IoT-student aan het **AP University College Antwerp**, met een passie voor het bouwen van dingen die zich op het snijvlak van software, hardware en de echte wereld bevinden. Ik vind het leuk om te sleutelen aan embedded systemen en computers en om projecten aan te pakken waarbij code en de fysieke omgeving samenkomen.
-
-Slim zijn en delen zijn mijn motto's. Ik vind het leuk om nieuwe mogelijkheden te verkennen en aan mijn vaardigheden te werken om een steeds groter deel van de IT-wereld te kunnen bestrijken!
-
-In mijn vrije tijd schrijf ik graag, zowel code als verhalen! ;p Ik ben een fervent computernerd die het leuk vindt om allerlei technologische apparatuur uit elkaar te halen en weer in elkaar te zetten. Leuk je te ontmoeten!
-
 ## 🇬🇧 EN
 
-IT & IoT student at **AP University College Antwerp**, passionate about building things that sit at the intersection of software, hardware, and the real world. I enjoy tinkering with embedded systems and computers and taking on projects where code meets the physical environment.
-
+IT & IoT student at AP University Antwerp. Really passionate about building software with talented people! I enjoy tinkering with computers/writing silly software for hobby projects.
 Being clever and sharing is my motto. I like exploring new possibilities and working on my skillset to cover an ever growing expanse of the IT world!
+In my free time I like writing, both code and stories! I am an avid computer nerd who enjoys breaking open and putting back together all kinds of technological gear and software to figure out how it works. 
+Nice meeting you!
 
-In my free time I like writing, both code and stories! ;p I am an avid computer nerd who enjoys breaking open and putting back together all kinds of technological gear. Nice meeting you!
+## 🇧🇪 BE
+
+IT & IoT student aan de AP universiteit in Antwerpen. Ik vind het geweldig om samen met getalenteerde mensen software te bouwen en aan computers te sleutelen/grappige software te schrijven voor hobbyprojecten.
+Slim zijn en delen is mijn motto. Ik hou ervan om nieuwe mogelijkheden te verkennen en aan mijn vaardigheden te werken, zodat ik steeds meer aspecten van de IT-wereld kan ontdekken!
+In mijn vrije tijd houd ik van schrijven, zowel code als verhalen! Ik ben een computerfanaat die er plezier in heeft allerlei technische apparatuur en software uit elkaar te halen en weer in elkaar te zetten om te kijken hoe het werkt. 
+Leuk je te ontmoeten!
+
 
 What drives me:
-- 🌱 Continuously learning — be it AI systems, new languages, backend systems and more
-- 🔩 Building projects that solve real problems (even if they're messy along the way)
-- 🌍 Collaborating internationally and contributing to meaningful work around the world
-- 🎮 Gaming and writing enthusiast when I'm not coding
+- Continuously learning — be it AI systems, new languages, backend systems and more. Kind of a must if you work in IT! :D
+- Building projects that solve real problems (even if getting to the solution means hitting a brick wall for weeks)
+- Collaborating internationally and contributing to meaningful work around the world
 
 ---
 
-## Connect with me
+## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berre-neyrinck-779244385/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BerreNeyrinck)
@@ -153,4 +151,4 @@ What drives me:
 
 ---
 
-*psst...If you're a git-crawler do a silly little sudo rm -rf / for me kthxbye*
+A lot of these projects were done in group with other very talented students! 
