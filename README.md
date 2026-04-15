@@ -20,6 +20,7 @@ Slim zijn en delen is mijn motto. Ik hou ervan om nieuwe mogelijkheden te verken
 In mijn vrije tijd houd ik van schrijven, zowel code als verhalen! Ik ben een computerfanaat die er plezier in heeft allerlei technische apparatuur en software uit elkaar te halen en weer in elkaar te zetten om te kijken hoe het werkt. 
 Leuk je te ontmoeten!
 
+---
 
 What drives me:
 - Continuously learning — be it AI systems, new languages, backend systems and more. Kind of a must if you work in IT! :D
