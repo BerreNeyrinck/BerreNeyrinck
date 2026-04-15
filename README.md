@@ -23,7 +23,7 @@ Leuk je te ontmoeten!
 ---
 
 What drives me:
-- Continuously learning — be it AI systems, new languages, backend systems and more. Kind of a must if you work in IT! :D
+- Continuously learning, be it AI systems, new languages, backend systems and more. Kind of a must if you work in IT! :D
 - Building projects that solve real problems (even if getting to the solution means hitting a brick wall for weeks)
 - Collaborating internationally and contributing to meaningful work around the world
 
