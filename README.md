@@ -73,7 +73,7 @@ What drives me:
 
 ## Projects
 
-### 🌍 International & Collaborative
+### International & Collaborative
 
 | Project | Description |
 |---|---|
