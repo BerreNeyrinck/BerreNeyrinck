@@ -36,7 +36,7 @@ What drives me:
 
 ---
 
-## My Skill Set
+## I have a basic understanding of/worked with
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
