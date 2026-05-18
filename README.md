@@ -79,7 +79,7 @@ What drives me:
 |---|---|
 | [**Biogas Digester Data Extraction**](https://github.com/BerreNeyrinck/Biogas-digester-data-extraction) | Sensor array for monitoring a biogas digester in real time built with Students for Energy in Africa, Ardhi University (Tanzania), and Vlirous. Covers hardware selection, embedded firmware, MQTT, Docker, and Docsify docs. To be installed in Kimbiji. |
 | [**International Project**](https://github.com/BerreNeyrinck/internationalProj) | Web project built as part of a cross-border student collaboration at AP including students from the Netherlands and France. |
-| [**AP-AQ IoT Sensor**](https://github.com/BerreNeyrinck/AP-AQ-iot-sensor) | Air quality monitoring in Tanzania with firmware written in C for embedded hardware, focused on reliable sensor data collection and transmission. |
+| [**AP-AQ IoT Sensor**](https://github.com/BerreNeyrinck/AP-AQ-iot-sensor) | Air quality monitoring in Tanzania with firmware written in C for embedded hardware, focused on reliable sensor data collection and transmission using LoRaWAN. |
 
 ---
 
