@@ -43,9 +43,9 @@ What drives me:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat-square&logoColor=white)(limited knowledge)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)(limited knowledge)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)(limited knowledge)
+![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat-square&logoColor=white)(limited)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)(limited)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)(limited)
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
