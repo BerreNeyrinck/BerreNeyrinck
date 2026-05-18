@@ -87,7 +87,6 @@ What drives me:
 
 | Project | Description |
 |---|---|
-| [**YOLOv8 Hardhat Detection**](https://github.com/BerreNeyrinck/YOLOv8_Hardhat) | Computer vision pipeline using YOLOv8 to detect whether workers are wearing hardhats in video feeds — object detection for workplace safety. |
 | [**Edge AI Helmet Detection**](https://github.com/MathiasVansteensel/ProjEdgeAI_Helmet) | YOLOv8 hardhat detection deployed on edge hardware, running inference locally without cloud infrastructure. *(collaborative)* |
 | [**ML Learning — MNIST & EMNIST**](https://github.com/BerreNeyrinck/ML-learning-MNIST-EMNIST-) | ML model trained to classify handwritten digits and letters from the MNIST and EMNIST datasets. |
 
