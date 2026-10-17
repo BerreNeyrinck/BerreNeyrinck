@@ -1,6 +1,6 @@
 <div align="center">
 
-### I'm Berre Neyrinck, a future Embedded Engineer studying at AP in Antwerp
+### I'm Berre Neyrinck, a future IT Engineer studying at AP University in Antwerp
 
  *Trying to learn things one tiny step at a time*
 
@@ -8,6 +8,7 @@
 
 ## 🇬🇧 EN
 
+*Note: Recently graduated from my IoT Engineering course! Continuing my studies under "Computer Science & AI"*
 IT & IoT student at AP University Antwerp. Really passionate about building software with talented people! I enjoy tinkering with computers/writing silly software for hobby projects.
 Being clever and sharing is my motto. I like exploring new possibilities and working on my skillset to cover an ever growing expanse of the IT world!
 In my free time I like writing, both code and stories! I am an avid computer nerd who enjoys breaking open and putting back together all kinds of technological gear and software to figure out how it works. 
@@ -15,6 +16,7 @@ Nice meeting you!
 
 ## 🇧🇪 BE
 
+*Note: Recent afgestudeerd van men IoT engineering richting! Ik studeer verder onder "Informatie Technologie & AI"*
 IT & IoT student aan de AP universiteit in Antwerpen. Ik vind het geweldig om samen met getalenteerde mensen software te bouwen en aan computers te sleutelen/grappige software te schrijven voor hobbyprojecten.
 Slim zijn en delen is mijn motto. Ik hou ervan om nieuwe mogelijkheden te verkennen en aan mijn vaardigheden te werken, zodat ik steeds meer aspecten van de IT-wereld kan ontdekken!
 In mijn vrije tijd houd ik van schrijven, zowel code als verhalen! Ik ben een computerfanaat die er plezier in heeft allerlei technische apparatuur en software uit elkaar te halen en weer in elkaar te zetten om te kijken hoe het werkt. 
@@ -43,9 +45,9 @@ What drives me:
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat-square&logoColor=white)(limited)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)(limited)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)(limited)
+![VHDL](https://img.shields.io/badge/VHDL-6A0DAD?style=flat-square&logoColor=white)(limited knowledge)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)(limited knowledge)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)(limited knowledge)
 
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
