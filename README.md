@@ -29,6 +29,12 @@ What drives me:
 
 ---
 
+Things I'm interested in:
+- Python programming / OOP, using this a lot in my studies
+- AI Solutions engineering
+- software development to optimize processes 
+---
+
 ## Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berre-neyrinck-779244385/)
@@ -165,4 +171,4 @@ What drives me:
 
 ---
 
-A lot of these projects were done in group with other very talented students! 
+A lot of these projects were done in groups with other very talented students! 
