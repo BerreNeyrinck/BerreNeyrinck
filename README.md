@@ -8,16 +8,14 @@
 
 ## 🇬🇧 EN
 
-*Note: Recently graduated from my IoT Engineering course! Continuing my studies under "Computer Science & AI"*
-IT & IoT student at AP University Antwerp. Really passionate about building software with talented people! I enjoy tinkering with computers/writing silly software for hobby projects.
+*Note: Recently graduated from my IoT Engineering course! Continuing my studies under "Computer Science & AI"*. Really passionate about building software with talented people! I enjoy tinkering with computers/writing silly software for hobby projects.
 Being clever and sharing is my motto. I like exploring new possibilities and working on my skillset to cover an ever growing expanse of the IT world!
 In my free time I like writing, both code and stories! I am an avid computer nerd who enjoys breaking open and putting back together all kinds of technological gear and software to figure out how it works. 
 Nice meeting you!
 
 ## 🇧🇪 BE
 
-*Note: Recent afgestudeerd van men IoT engineering richting! Ik studeer verder onder "Informatie Technologie & AI"*
-IT & IoT student aan de AP universiteit in Antwerpen. Ik vind het geweldig om samen met getalenteerde mensen software te bouwen en aan computers te sleutelen/grappige software te schrijven voor hobbyprojecten.
+*Note: Recent afgestudeerd van men IoT engineering richting! Ik studeer verder onder "Informatie Technologie & AI"*. Ik vind het geweldig om samen met getalenteerde mensen software te bouwen en aan computers te sleutelen/grappige software te schrijven voor hobbyprojecten.
 Slim zijn en delen is mijn motto. Ik hou ervan om nieuwe mogelijkheden te verkennen en aan mijn vaardigheden te werken, zodat ik steeds meer aspecten van de IT-wereld kan ontdekken!
 In mijn vrije tijd houd ik van schrijven, zowel code als verhalen! Ik ben een computerfanaat die er plezier in heeft allerlei technische apparatuur en software uit elkaar te halen en weer in elkaar te zetten om te kijken hoe het werkt. 
 Leuk je te ontmoeten!
@@ -70,6 +68,10 @@ What drives me:
 ### AI & ML
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/Linear_Regression-4285F4?style=flat-square&logoColor=white)
+![Classifiers & Regressors](https://img.shields.io/badge/Classifiers_&_Regressors-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ---
 
@@ -91,6 +93,16 @@ What drives me:
 |---|---|
 | [**Edge AI Helmet Detection**](https://github.com/MathiasVansteensel/ProjEdgeAI_Helmet) | YOLOv8 hardhat detection deployed on edge hardware, running inference locally without cloud infrastructure. *(collaborative)* |
 | [**ML Learning — MNIST & EMNIST**](https://github.com/BerreNeyrinck/ML-learning-MNIST-EMNIST-) | ML model trained to classify handwritten digits and letters from the MNIST and EMNIST datasets. |
+
+(a LOT more projects to be added soon! namely:
+- linear regression
+- Vision-Language-Action models
+- optimization algorithms
+- simulated annealing
+- genetic algorithms
+- MCP models
+- decision trees & random forests
+)
 
 ---
 
